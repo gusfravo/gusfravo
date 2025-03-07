@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p>Welcome! </br> I'm Gustavo Solano, Software developer from <b>Oaxaca, Mexico</b> </p>
+<p>Welcome! </br> I'm Gustavo Solano, Software developer from <b>Mexico</b> </p>
 <h3>I code with</h3>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
