@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1>Gustavo Solano</h1>
+
 <p>Welcome! </br> I'm Gustavo Solano, Software developer from <b>Mexico</b> </p>
 <p>I'm currently learning .Net with MAUI to develop new amazing APPs</p>
 <h3>I code with</h3>
@@ -23,6 +25,9 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
+
+<p>Powered by Thavs</p>
+
 <!--
 **gusfravo/gusfravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
