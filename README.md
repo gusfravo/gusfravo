@@ -6,7 +6,6 @@
 <p>
   I have been working in web and mobile app development for 8 years, gaining solid experience in both Front-End and Back-End. Throughout my career, I’ve worked with various technologies, such as JavaScript, TypeScript, PHP, and Laravel, which have allowed me to build complete and scalable solutions.
 </p>
-<p>I'm currently learning .Net with MAUI to develop new amazing APPs</p>
 <h3>I code with</h3>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
